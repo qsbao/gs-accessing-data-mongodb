@@ -19,3 +19,15 @@ mongod
 
 ### Idea supports
 https://blog.jetbrains.com/idea/2017/03/spring-data-improvements-in-intellij-idea-2017-1/
+
+### Specify git username for github
+```
+vim ~/.gitconfig
+[includeIf "gitdir:~/github/"]
+    path = ~/github/.gitconfig
+
+vim ~/github/.gitconfig
+[user]
+    email = qingsheng.bqs@gmail.com
+    
+```
