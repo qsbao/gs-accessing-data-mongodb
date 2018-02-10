@@ -2,10 +2,10 @@
 https://spring.io/guides/gs/accessing-mongodb-data-rest/
 
 - spring-data
+    + page hierarchy
 - spring-data-rest
 - spring-data-mongodb
 - mongodb
-
 ### Install MongoDB
 
 ```
