@@ -5,7 +5,6 @@ https://spring.io/guides/gs/accessing-mongodb-data-rest/
 - spring-data-rest
 - spring-data-mongodb
 - mongodb
-- lombok
 
 ### Install MongoDB
 
